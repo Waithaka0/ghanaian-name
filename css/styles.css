@@ -16,3 +16,8 @@ p{
   font-size: 25px;
   font-family: sans-serif;
 }
+
+body{
+  background-image: url('..images/ghana.jpg');
+  
+}
